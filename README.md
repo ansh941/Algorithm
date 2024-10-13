@@ -9,12 +9,14 @@
 | [0045-jump-game-ii](https://github.com/ansh941/Algorithm/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/ansh941/Algorithm/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ansh941/Algorithm/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/ansh941/Algorithm/tree/master/0120-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/ansh941/Algorithm/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/ansh941/Algorithm/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ansh941/Algorithm/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/ansh941/Algorithm/tree/master/0120-triangle) |
 ## Greedy
 |  |
 | ------- |
