@@ -27,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ansh941/Algorithm/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/ansh941/Algorithm/tree/master/0062-unique-paths) |
 ## Combinatorics
 |  |
@@ -36,4 +37,12 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ansh941/Algorithm/tree/master/0063-unique-paths-ii) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/ansh941/Algorithm/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/ansh941/Algorithm/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
