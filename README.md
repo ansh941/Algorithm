@@ -41,8 +41,29 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ansh941/Algorithm/tree/master/0043-multiply-strings) |
+| [0187-repeated-dna-sequences](https://github.com/ansh941/Algorithm/tree/master/0187-repeated-dna-sequences) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ansh941/Algorithm/tree/master/0043-multiply-strings) |
+## Hash Table
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ansh941/Algorithm/tree/master/0187-repeated-dna-sequences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ansh941/Algorithm/tree/master/0187-repeated-dna-sequences) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ansh941/Algorithm/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ansh941/Algorithm/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ansh941/Algorithm/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
