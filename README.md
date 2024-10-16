@@ -42,6 +42,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/ansh941/Algorithm/tree/master/0043-multiply-strings) |
 | [0187-repeated-dna-sequences](https://github.com/ansh941/Algorithm/tree/master/0187-repeated-dna-sequences) |
+| [1894-merge-strings-alternately](https://github.com/ansh941/Algorithm/tree/master/1894-merge-strings-alternately) |
 ## Simulation
 |  |
 | ------- |
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ansh941/Algorithm/tree/master/0187-repeated-dna-sequences) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/ansh941/Algorithm/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
