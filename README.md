@@ -56,6 +56,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/ansh941/Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ansh941/Algorithm/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ansh941/Algorithm/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ansh941/Algorithm/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/ansh941/Algorithm/tree/master/1894-merge-strings-alternately) |
 ## Simulation
 |  |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ansh941/Algorithm/tree/master/0187-repeated-dna-sequences) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ansh941/Algorithm/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Rolling Hash
 |  |
 | ------- |
