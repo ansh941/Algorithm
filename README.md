@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ansh941/Algorithm/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/ansh941/Algorithm/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/ansh941/Algorithm/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/ansh941/Algorithm/tree/master/0118-pascals-triangle) |
@@ -28,6 +29,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ansh941/Algorithm/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/ansh941/Algorithm/tree/master/0045-jump-game-ii) |
 | [0605-can-place-flowers](https://github.com/ansh941/Algorithm/tree/master/0605-can-place-flowers) |
 ## Math
@@ -81,6 +83,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ansh941/Algorithm/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/ansh941/Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ansh941/Algorithm/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ansh941/Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
