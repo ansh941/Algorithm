@@ -1,17 +1,10 @@
 class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
-        if(s==""):
-            return True
-        
-        flag = len(s)
-        p = 0
-        
-        for i in range(len(t)):
-            if(t[i] == s[p]):
-                flag -= 1
-                p+=1
-            
-            if(flag == 0):
-                return True
-        return False
-                
+        t_idx = -1
+
+        for s_char in s:
+            if s_char in t[t_idx+1:] and t_idx+1 <= len(t)-1:
+                t_idx += t[t_idx+1:].index(s_char) + 1
+            else:
+                return False
+        return True
