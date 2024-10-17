@@ -24,6 +24,7 @@
 | [0118-pascals-triangle](https://github.com/ansh941/Algorithm/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ansh941/Algorithm/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/ansh941/Algorithm/tree/master/0120-triangle) |
+| [0392-is-subsequence](https://github.com/ansh941/Algorithm/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ansh941/Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/ansh941/Algorithm/tree/master/0187-repeated-dna-sequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ansh941/Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/ansh941/Algorithm/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ansh941/Algorithm/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/ansh941/Algorithm/tree/master/1894-merge-strings-alternately) |
 ## Simulation
@@ -82,6 +84,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ansh941/Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ansh941/Algorithm/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ansh941/Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/ansh941/Algorithm/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/ansh941/Algorithm/tree/master/1894-merge-strings-alternately) |
 ## Prefix Sum
 |  |
